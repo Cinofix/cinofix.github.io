@@ -6,13 +6,13 @@ body { text-align: center; width: 100%; font-family: "Noto Sans", "Segoe UI", Ro
 a { text-decoration: none; color: inherit; }
 a:hover { text-decoration: underline; }
 
-.container { margin-left: auto; margin-right: auto; margin-bottom: 1rem; max-width: 48rem; text-align: left; }
+.container { margin-left: auto; margin-right: auto; margin-bottom: 1rem; max-width: 90rem; text-align: left; }
 
 @media screen and (max-width: 48rem) { html { font-size: 12px; }
   .container { padding-left: .4rem; padding-right: .4rem; } }
 @media print { html { font-size: 12px; }
   .print { display: none; } }
-header { display: flex; justify-content: space-between; border-bottom: 0.1rem solid #228be6; padding-top: 2.2rem; padding-bottom: 2.2rem; }
+header { display: flex; border-bottom: 0.1rem solid #228be6; padding-top: 2.2rem; padding-bottom: 2.2rem; }
 
 #name-wrapper { padding-top: 1rem; padding-bottom: 1rem; }
 
@@ -32,7 +32,7 @@ header { display: flex; justify-content: space-between; border-bottom: 0.1rem so
   #name-wrapper { text-align: center; padding-bottom: 2rem; }
   #contact { padding-top: 1rem; border-top: 0.1rem solid #228be6; }
   .contact-item { padding-top: .2rem; padding-left: .4rem; } }
-section { display: flex; padding-top: 2.4rem; padding-bottom: 2.4rem; padding-left: .2rem; border-bottom: 0.1rem solid #228be6; hyphens: auto; }
+section { display: flex; padding-top: 0.4rem; padding-bottom: 0.4rem; padding-left: .2rem; border-bottom: 0.1rem solid #228be6; hyphens: auto; }
 
 .section-title { font-size: 1.6rem; text-align: left; min-width: 10rem; }
 

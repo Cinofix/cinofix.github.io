@@ -2357,7 +2357,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .show-on-focus { position: absolute; width: 1px; height: 1px; margin: 0; overflow: hidden; clip: rect(1px, 1px, 1px, 1px); }
 .show-on-focus:focus { z-index: 20; width: auto; height: auto; clip: auto; }
 
-.container { width: 980px; margin-right: auto; margin-left: auto; }
+.container { width: 980px; }
 .container::before { display: table; content: ""; }
 .container::after { display: table; clear: both; content: ""; }
 
