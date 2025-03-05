@@ -57,3 +57,31 @@ section { display: flex; padding-top: 0.4rem; padding-bottom: 0.4rem; padding-le
 .highlight { font-size: 1rem; margin-bottom: 1rem; color: #228be6; }
 
 footer { color: #228be6; font-size: 1rem; min-height: 3rem; line-height: 3rem; margin-top: 1rem; margin-bottom: 1rem; }
+
+.citation-container {
+  text-align: center;
+  margin-top: 2rem;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #495057;
+}
+
+.citation-container cite {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 4px solid #228be6;
+  padding-left: 1rem;
+  font-size: 1.1rem;
+}
+
+.citation-author {
+  display: block;
+  text-align: right;
+  font-size: 1rem;
+  color: #6c757d;
+  margin-top: 0.5rem;
+}
