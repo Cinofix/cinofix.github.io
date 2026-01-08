@@ -85,3 +85,9 @@ footer { color: #228be6; font-size: 1rem; min-height: 3rem; line-height: 3rem; m
   color: #6c757d;
   margin-top: 0.5rem;
 }
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically if needed */
+  width: 100%
