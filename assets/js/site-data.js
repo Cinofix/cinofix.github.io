@@ -32,8 +32,8 @@ window.siteData = {
   ],
 
   interests: [
-    "Machine Learning Security",
-    "Adversarial ML",
+    "AI Security",
+    "AI Safety",
     "Cybersecurity",
     "AI for cybersecurity",
     "AI Robustness"
@@ -47,7 +47,7 @@ window.siteData = {
 
   researchFocus: [
     {
-      title: "Machine Learning Security and Reliability",
+      title: "AI Security and Safety",
       text: "He investigates vulnerabilities and failure modes arising from spurious and adversarial correlations learned during training, which can undermine AI behavior in safety-sensitive systems or produce toxic or unethical outputs. His work contributes to risk categorization, robustness benchmarks, and guidelines for resilient models."
     },
     {
