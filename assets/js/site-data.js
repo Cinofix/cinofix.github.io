@@ -40,7 +40,7 @@ window.siteData = {
   ],
 
   bio: [
-    "Antonio Emanuele Cinà is a tenure-track assistant professor of Computer Science at the University of Trieste, Italy. He was previously a postdoctoral researcher at the CISPA Helmholtz Center for Information Security in Saarbrücken, Germany, and an assistant professor at the University of Genova, Italy.",
+    "Antonio Emanuele Cinà is a tenure-track assistant professor of Computer Science at the University of Trieste, Italy. He was previously a postdoctoral researcher at the CISPA Helmholtz Center for Information Security in Saarbrücken, Germany, and an assistant professor at the University of Genoa, Italy.",
     "His research lies at the intersection of machine learning and computer security, with a focus on the reliability of AI systems in adversarial and real-world settings. He investigates vulnerabilities and failure modes arising from spurious and adversarial correlations—non-causal patterns that can undermine the expected behavior of AI systems, from misclassifications in safety-sensitive applications to the generation of toxic or ethically inappropriate content.",
     "His work aims to evaluate and mitigate these threats through penetration testing methodologies and the design of defense techniques. Antonio is a member of the IEEE Computer Society and serves as Associate Editor of the International Journal of Machine Learning and Cybernetics, Springer."
   ],
@@ -72,6 +72,13 @@ window.siteData = {
       type: "Professional experience",
       logo: "assets/img/unige.png",
       fallback: "UG"
+    },
+    {
+      title: "Computer Vision Center (CVC), Universitat Autònoma de Barcelona",
+      meta: "2025 · Visiting researcher",
+      type: "Professional experience",
+      logo: "assets/img/cvc.png",
+      fallback: "CVC"
     },
     {
       title: "CISPA Helmholtz Center for Information Security",
