@@ -35,7 +35,7 @@ window.siteData = {
     "Machine Learning Security",
     "Adversarial ML",
     "Cybersecurity",
-    "AI for cybersecurity applications",
+    "AI for cybersecurity",
     "AI Robustness"
   ],
 
@@ -63,42 +63,42 @@ window.siteData = {
       title: "University of Trieste",
       meta: "2024 - Present · Tenure-track Assistant Professor",
       type: "Professional experience",
-      logo: "https://www.google.com/s2/favicons?domain=units.it&sz=96",
+      logo: "assets/img/units.png",
       fallback: "UT"
     },
     {
       title: "University of Genoa",
       meta: "2023 - 2024 · Assistant Professor",
       type: "Professional experience",
-      logo: "https://www.google.com/s2/favicons?domain=unige.it&sz=96",
+      logo: "assets/img/unige.png",
       fallback: "UG"
     },
     {
       title: "CISPA Helmholtz Center for Information Security",
       meta: "2023 · Postdoctoral Researcher",
       type: "Professional experience",
-      logo: "https://www.google.com/s2/favicons?domain=cispa.de&sz=96",
+      logo: "assets/img/cispa.png",
       fallback: "CISPA"
     },
     {
       title: "Ph.D. in Computer Science, Ca' Foscari University of Venice",
       meta: "2019 - 2023",
       type: "Education",
-      logo: "https://www.google.com/s2/favicons?domain=unive.it&sz=96",
+      logo: "assets/img/unive.png",
       fallback: "CF"
     },
     {
       title: "M.Sc. in Computer Science, Ca' Foscari University of Venice",
       meta: "2017 - 2019 · Summa cum laude",
       type: "Education",
-      logo: "https://www.google.com/s2/favicons?domain=unive.it&sz=96",
+      logo: "assets/img/unive.png",
       fallback: "CF"
     },
     {
       title: "B.Sc. in Computer Science, Ca' Foscari University of Venice",
       meta: "2014 - 2017 · Summa cum laude, Best Graduate",
       type: "Education",
-      logo: "https://www.google.com/s2/favicons?domain=unive.it&sz=96",
+      logo: "assets/img/unive.png",
       fallback: "CF"
     }
   ],
@@ -109,75 +109,87 @@ window.siteData = {
         title: "Sonic: Fast and transferable data poisoning on clustering algorithms",
         venue: "Information Sciences",
         year: 2026,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:3fE2CSJIrl8C"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:3fE2CSJIrl8C",
+        authors: "Villani, F.; Lazzaro, D.; Cinà, Antonio Emanuele; Dell’Amico, M.; Biggio, B.; Roli, F.",
       },
       {
         title: "Evaluating the robustness of explainable AI in medical image recognition under natural and adversarial data corruption",
         venue: "Machine Learning",
         year: 2026,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:L8Ckcad2t8MC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:L8Ckcad2t8MC",
+        authors: "Repetto, S.; Maljkovic, I.; Lotto, M.; Cinà, Antonio Emanuele; Vascon, S.; Roli, F.",
       },
       {
         title: "HORNET: Fast and minimal adversarial perturbations",
         venue: "Information Sciences",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:ZeXyd9-uunAC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:ZeXyd9-uunAC",
+        authors: "Wu, J.; Cinà, Antonio Emanuele; Villani, F.; Xia, Z.; Demetrio, L.; Oneto, L.; Anguita, D.; Roli, F.; Feng, X.",
       },
       {
         title: "Poison Once, Fool Many: Practical Poisoning Attacks against Text-to-Image Retrieval Systems",
         venue: "Knowledge-Based Systems",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:7PzlFSSx8tAC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:7PzlFSSx8tAC",
+        authors: "Lazzaro, D.; Mura, R.; Cinà, Antonio Emanuele; Laurita, G.; Vercelli, G.; Oneto, L.; Biggio, B.; Roli, F.",
       },
       {
         title: "On the robustness of adversarial training against uncertainty attacks",
         venue: "Pattern Recognition",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:Zph67rFs4hoC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:Zph67rFs4hoC",
+        authors: "Ledda, E.; Scodeller, G.; Angioni, D.; Piras, G.; Cinà, Antonio Emanuele; Fumera, G.; Biggio, B.; Roli, F.",
       },
       {
         title: "Rethinking Robustness in Machine Learning: A Posterior Agreement Approach",
         venue: "Transactions on Machine Learning Research (TMLR)",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:4TOpqqG69KYC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:4TOpqqG69KYC",
+        authors: "Carvalho, J. B. S.; Rodríguez, V. J.; Torcinovich, A.; Cinà, Antonio E.; Cotrini, C.; Schönherr, L.; Buhmann, J. M.",
       },
       {
         title: "Robust image classification with multi-modal large language models",
         venue: "Pattern Recognition Letters",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:ULOm3_A8WrAC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:ULOm3_A8WrAC",
+        authors: "Villani, F.; Maljkovic, I.; Lazzaro, D.; Sotgiu, A.; Cinà, Antonio Emanuele; Roli, F.",
       },
       {
         title: "Energy-Latency Attacks via Sponge Poisoning",
         venue: "Information Sciences",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:qjMakFHDy7sC"
-      },
-      {
-        title: "Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions",
-        venue: "International Journal of Machine Learning and Cybernetics",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:2osOgNQ5qMEC"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:qjMakFHDy7sC",
+        authors: "Cinà, Antonio Emanuele; Demontis, A.; Biggio, B.; Roli, F.; Pelillo, M.",
       },
       {
         title: "Machine Learning Security against Data Poisoning: Are We There Yet?",
         venue: "IEEE Computer",
-        year: 2024
+        year: 2024,
+        authors: "Cinà, Antonio Emanuele; Grosse, K.; Demontis, A.; Biggio, B.; Roli, F.; Pelillo, M.",
+      },
+      {
+        title: "Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions",
+        venue: "International Journal of Machine Learning and Cybernetics",
+        year: 2024,
+        authors: "Cinà, Antonio Emanuele; Grosse, K.; Vascon, S.; Demontis, A.; Zellinger, W.; Moser, B. A.; Biggio, B.; Oprea, A.; Pelillo, M.; Roli, F.",
       },
       {
         title: "Wild Patterns Reloaded: A Survey of Machine Learning Security against Training Data Poisoning",
         venue: "ACM Computing Surveys",
-        year: 2023
+        year: 2023,
+        authors: "Cinà, Antonio Emanuele; Grosse, K.; Demontis, A.; Vascon, S.; Zellinger, W.; Moser, B. A.; Biggio, B.; Oprea, A.; Pelillo, M.; Roli, F.",
       },
       {
         title: "Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks",
         venue: "Information Sciences",
-        year: 2023
+        year: 2023,
+        authors: "Zheng, Y.; Demetrio, L.; Cinà, Antonio Emanuele; Feng, X.; Xia, Z.; Jiang, X.; Demontis, A.; Biggio, B.; Roli, F.",
       },
       {
         title: "A Black-box Adversarial Attack for Poisoning Clustering",
         venue: "Pattern Recognition",
-        year: 2022
+        year: 2022,
+        authors: "Cinà, Antonio Emanuele; Torcinovich, A.; Pelillo, M.",
       }
     ],
     conferences: [
@@ -185,97 +197,97 @@ window.siteData = {
         title: "Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization",
         venue: "International Conference on Learning Representations (ICLR)",
         year: 2026,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:hFOr9nPyWt4C"
+        authors: "Maljkovic, I.; Briglia, M. R.; Masi, I.; Cinà, Antonio Emanuele; Roli, F.",
       },
       {
         title: "TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks",
         venue: "NeurIPS",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:QIV2ME_5wuYC"
-      },
-      {
-        title: "AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples",
-        venue: "AAAI Conference on Artificial Intelligence (AAAI)",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:UebtZRa9Y70C"
-      },
-      {
-        title: "Pirates of Charity: Exploring Donation-based Abuses in Social Media Platforms",
-        venue: "Proceedings of the ACM on Web Conference",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:YOwf2qJgpHMC"
-      },
-      {
-        title: "Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric",
-        venue: "IEEE ISSRE",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:dhFuZR0502QC"
-      },
-      {
-        title: "Exploring the potential of llms for code deobfuscation",
-        venue: "International Conference on Detection of Intrusions and Malware",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:4DMP91E08xMC"
-      },
-      {
-        title: "Evaluating the Evaluators: Trust in Adversarial Robustness Tests",
-        venue: "Ital-IA 2025: 5th National Conference on Artificial Intelligence",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:M3ejUd6NZC8C"
-      },
-      {
-        title: "Vulnerability Assessment of LLM-Generated Smart Contracts in Ethereum",
-        venue: "CEUR Workshop Proceedings",
-        year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:9ZlFYXVOiuMC"
+        authors: "Brau, F.; Pintor, M.; Cinà, Antonio Emanuele; Mura, R.; Scionis, L.; Oneto, L.; Roli, F.; Biggio, B.",
       },
       {
         title: "σ-zero: Gradient-based Optimization of ℓ0-norm Adversarial Examples",
         venue: "International Conference on Learning Representations (ICLR)",
         year: 2025,
-        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=Qtj8Lb8AAAAJ&sortby=pubdate&citation_for_view=Qtj8Lb8AAAAJ:MXK_kJrjxJIC"
+        authors: "Cinà, Antonio Emanuele; Villani, F.; Pintor, M.; Schönherr, L.; Biggio, B.; Pelillo, M.",
+      },
+      {
+        title: "AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples",
+        venue: "AAAI Conference on Artificial Intelligence (AAAI)",
+        year: 2025,
+        authors: "Cinà, Antonio Emanuele; Rony, J.; Pintor, M.; Demetrio, L.; Demontis, A.; Biggio, B.; Ben Ayed, I.; Roli, F.",
+      },
+      {
+        title: "Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric",
+        venue: "IEEE ISSRE",
+        year: 2025,
+        authors: "Olivieri, L.; Beste, D.; Negrini, L.; Schönherr, L.; Cinà, Antonio Emanuele; Ferrara, P.",
+      },
+      {
+        title: "Pirates of Charity: Exploring Donation-based Abuses in Social Media Platforms",
+        venue: "Proceedings of the ACM on Web Conference",
+        year: 2025,
+        authors: "Acharya, B.; Lazzaro, D.; Cinà, Antonio Emanuele; Holz, T.",
+      },
+      {
+        title: "Exploring the Potential of LLMs for Code Deobfuscation",
+        venue: "International Conference on Detection of Intrusions and Malware (DIMVA)",
+        year: 2025,
+        authors: "Beste, D.; Menguy, G.; Hajipour, H.; Fritz, M.; Cinà, Antonio Emanuele; Bardin, S.; Holz, T.; Eisenhofer, T.; Schönherr, L.",
       },
       {
         title: "Understanding XAI Through the Philosopher’s Glasses: A Historical Perspective",
         venue: "European Conference on Artificial Intelligence (ECAI)",
-        year: 2024
+        year: 2024,
+        authors: "Mattioli, M.; Cinà, Antonio Emanuele; Pelillo, M.",
       },
       {
         title: "The Imitation Game: Exploring Brand Impersonation Attacks on Social Media Platforms",
         venue: "USENIX Security Symposium",
-        year: 2024
+        year: 2024,
+        authors: "Acharya, B.; Lazzaro, D.; López-Morales, E.; Saad, M.; Cinà, Antonio Emanuele; Schönherr, L.; Holz, T.",
       },
       {
         title: "Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams",
         venue: "IEEE Symposium on Security and Privacy (SP)",
-        year: 2024
+        year: 2024,
+        authors: "Acharya, B.; Saad, M.; Cinà, Antonio Emanuele; Schönherr, L.; Nguyen, H. D.; Oest, A.; Holz, T.",
+      },
+      {
+        title: "Toward Measuring and Understanding the Overvalidation Phenomena",
+        venue: "International Conference on Machine Learning and Applications",
+        year: 2024,
+        authors: "Mori, F.; Cinà, Antonio Emanuele; Roli, F.; Anguita, D.; Oneto, L.",
       },
       {
         title: "Minimizing Energy Consumption of Deep Learning Models by Energy-Aware Training",
         venue: "International Conference on Image Analysis and Processing (ICIAP)",
-        year: 2023
+        year: 2023,
+        authors: "Lazzaro, D.; Cinà, Antonio Emanuele; Pintor, M.; Demontis, A.; Biggio, B.; Roli, F.; Pelillo, M.",
       },
       {
         title: "Stealing with Uncertainty Quantification Models",
         venue: "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)",
-        year: 2023
+        year: 2023,
+        authors: "Pape, D.; Däubener, S.; Eisenhofer, T.; Cinà, Antonio Emanuele; Schönherr, L.",
       },
       {
         title: "The Hammer and the Nut: Is Bilevel Optimization Really Needed to Poison Linear Classifiers?",
         venue: "International Joint Conference on Neural Networks (IJCNN)",
-        year: 2021
+        year: 2021,
+        authors: "Cinà, Antonio Emanuele; Vascon, S.; Demontis, A.; Biggio, B.; Roli, F.; Pelillo, M.",
       }
     ]
   },
 
   talks: {
     conference: [
-      { year: 2025, title: "σ-zero: Gradient-based Optimization of ℓ0-norm Adversarial Examples", venue: "ICLR" },
+      { year: 2026, title: "Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization", venue: "ICLR" },
+      { year: 2025, title: "TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks", venue: "NeurIPS" },
+      { year: 2025, title: "Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric", venue: "IEEE ISSRE" },
+      { year: 2025, title: "Exploring the potential of llms for code deobfuscation", venue: "DIMVA" },
       { year: 2025, title: "AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples", venue: "AAAI" },
-      { year: 2023, title: "On the Limitations of Model Stealing with Uncertainty Quantification Models", venue: "ICML Workshop: New Frontiers in Adversarial Machine Learning" },
-      { year: 2022, title: "Mislead Machine Learning", venue: "ITASEC Workshop: AI for Security and Security of AI" },
-      { year: 2021, title: "Explaining Backdoor Poisoning", venue: "ICCV Workshop: Adversarial Robustness in the Real World" },
-      { year: 2021, title: "Is Bilevel Optimization Really Needed to Poison Linear Classifiers?", venue: "IJCNN" }
+      { year: 2023, title: "On the Limitations of Model Stealing with Uncertainty Quantification Models", venue: "ICML Workshop: New Frontiers in Adversarial Machine Learning" }
     ],
     invited: [
       { year: 2024, title: "Foundations of LLMs, Applications, and Security Risks", venue: "Keynote, ICMLC" },
@@ -286,15 +298,14 @@ window.siteData = {
       { year: 2022, title: "Mislead Machine Learning", venue: "ASSG: AppSec and Cybersecurity Governance" }
     ],
     other: [
+      { year: 2025, title: "Evaluating the Evaluators: Trust in Adversarial Robustness Tests", venue: "Ital-IA 2025" },
+      { year: 2025, title: "Vulnerability Assessment of LLM-Generated Smart Contracts in Ethereum", venue: "CEUR Workshop Proceedings" },
       { year: 2024, title: "Foundations of LLMs, Applications, and Security Risks", venue: "PRALAB, University of Cagliari" },
       { year: 2024, title: "Data & MLOps in Sustainable Transportation & Logistics", venue: "University of Pisa, Spoke 10 PNRR" },
-      { year: 2024, title: "Training with Malicious Teachers: Poisoning Attacks", venue: "PRALAB, University of Cagliari" },
       { year: 2024, title: "Handling Scientific Experiments with HPC Clusters & Slurm", venue: "PRALAB, University of Cagliari" },
       { year: 2023, title: "Training with Malicious Teachers", venue: "SoSySec Seminar, INRIA" },
       { year: 2023, title: "Dose Makes the Poison", venue: "SAILab, Siena" },
-      { year: 2023, title: "Dose Makes the Poison", venue: "SmartLab, Prof. Fabio Roli" },
-      { year: 2022, title: "AI in the Film Industry", venue: "AIA, Villorba" },
-      { year: 2022, title: "Mislead Machine Learning", venue: "Codemotion Online Seminar" }
+      { year: 2023, title: "Dose Makes the Poison", venue: "SmartLab, Prof. Fabio Roli" }
     ]
   }
 };

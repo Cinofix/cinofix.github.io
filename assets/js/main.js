@@ -111,6 +111,7 @@ function renderPublications(filter = 'all') {
         <div class="pub-body">
           <div class="pub-topline"><span class="pub-type">${pub.label}</span><span>${pub.venue}</span></div>
           <strong>${pub.link ? `<a href="${pub.link}" target="_blank" rel="noopener noreferrer">${pub.title}</a>` : pub.title}</strong>
+          ${pub.authors ? `<p class="pub-authors">${pub.authors}</p>` : ''}
         </div>
       `;
       list.append(item);
@@ -138,9 +139,19 @@ function renderTalkList(id, items) {
     item.className = 'talk-item';
     item.append(textNode('time', String(talk.year)));
     const body = document.createElement('span');
-    const strong = textNode('strong', talk.title);
+    const title = document.createElement('strong');
+    if (talk.link) {
+      const anchor = document.createElement('a');
+      anchor.href = talk.link;
+      anchor.target = '_blank';
+      anchor.rel = 'noopener noreferrer';
+      anchor.textContent = talk.title;
+      title.append(anchor);
+    } else {
+      title.textContent = talk.title;
+    }
     const venue = textNode('span', talk.venue);
-    body.append(strong, venue);
+    body.append(title, venue);
     item.append(body);
     list.append(item);
   });
