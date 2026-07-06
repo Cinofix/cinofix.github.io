@@ -74,7 +74,7 @@ window.siteData = {
       fallback: "UG"
     },
     {
-      title: "Computer Vision Center (CVC), Universitat Autònoma de Barcelona",
+      title: "Computer Vision Center, Universitat Autònoma de Barcelona",
       meta: "2025 · Visiting researcher",
       type: "Professional experience",
       logo: "assets/img/cvc.png",
@@ -288,23 +288,23 @@ window.siteData = {
   },
 
   talks: {
-    conference: [
-      { year: 2026, title: "Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization", venue: "ICLR" },
-      { year: 2025, title: "TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks", venue: "NeurIPS" },
-      { year: 2025, title: "Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric", venue: "IEEE ISSRE" },
-      { year: 2025, title: "Exploring the potential of llms for code deobfuscation", venue: "DIMVA" },
-      { year: 2025, title: "AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples", venue: "AAAI" },
-      { year: 2023, title: "On the Limitations of Model Stealing with Uncertainty Quantification Models", venue: "ICML Workshop: New Frontiers in Adversarial Machine Learning" }
-    ],
     invited: [
+      { year: 2026, title: "Cybersecurity Threats of Deep Learning", venue: "TU Graz" },
+      { year: 2026, title: "The quest for reliable testing and verification in machine learning security", venue: "TU Graz" },
       { year: 2024, title: "Foundations of LLMs, Applications, and Security Risks", venue: "Keynote, ICMLC" },
       { year: 2024, title: "Reliable Machine Learning Security Benchmarking", venue: "ML Security Workshop @ ICMLC" },
       { year: 2024, title: "Robust ML: Benchmarking Best Practices", venue: "ML for Cybersecurity Workshop @ ECML PKDD" },
       { year: 2023, title: "Training with Malicious Teachers", venue: "Robustness in Deep Learning Workshop @ GAMM" },
-      { year: 2022, title: "Where ML Security Is Broken: Poisoning Attacks", venue: "Security of ML @ Dagstuhl Seminar" },
+      { year: 2022, title: "Where ML Security Is Broken and How to Fix It Episode I: Poisoning Attacks", venue: "Security of Machine Learning seminar series, Schloss Dagstuhl, Germany" },
       { year: 2022, title: "Mislead Machine Learning", venue: "ASSG: AppSec and Cybersecurity Governance" }
     ],
     other: [
+      { year: 2026, title: "Ethical AI Hacking: come ingannare l’AI per imparare a migliorarla", venue: "Ca' Foscari University of Venice" },
+      { year: 2026, title: "Towards Adversarially Robust ML in the Age of the AI Act", venue: "ItaSec, Cagliari" },
+      { year: 2026, title: "Come funzionano davvero i Large Language Models? Allucinazioni e soluzioni basate su RAG", venue: "Seminar for InfoAICert 2026" },
+      { year: 2026, title: "Large Language Models: Foundations and Threats", venue: "Wu School of Intelligent Engineering, South China University of Technology" },
+      { year: 2025, title: "Machine Learning Security: The quest for reliable testing and verification in machine learning security", venue: "University of Verona" },
+      { year: 2025, title: "Machine Learning Security: Foundations, Threats, and Proactive Measures", venue: "University of Parma" },
       { year: 2025, title: "Evaluating the Evaluators: Trust in Adversarial Robustness Tests", venue: "Ital-IA 2025" },
       { year: 2025, title: "Vulnerability Assessment of LLM-Generated Smart Contracts in Ethereum", venue: "CEUR Workshop Proceedings" },
       { year: 2024, title: "Foundations of LLMs, Applications, and Security Risks", venue: "PRALAB, University of Cagliari" },

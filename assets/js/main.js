@@ -196,9 +196,10 @@ function initializePage() {
   renderTimeline();
   renderPublications();
   setupPublicationTabs();
-  renderTalkList('conference-talks', data.talks.conference);
-  renderTalkList('invited-talks-list', data.talks.invited);
-  renderTalkList('other-talks-list', data.talks.other);
+  renderTalkList(
+    'talks-list',
+    [...data.talks.invited, ...data.talks.other].sort((a, b) => b.year - a.year || a.title.localeCompare(b.title))
+  );
   renderQuotes();
   setupNavigation();
 }
