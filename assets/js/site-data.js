@@ -61,14 +61,14 @@ window.siteData = {
   timeline: [
     {
       title: "University of Trieste",
-      meta: "2024 - Present · Tenure-track Assistant Professor",
+      meta: "2026 - Present · Tenure-track Assistant Professor",
       type: "Professional experience",
       logo: "assets/img/units.png",
       fallback: "UT"
     },
     {
       title: "University of Genoa",
-      meta: "2023 - 2024 · Assistant Professor",
+      meta: "2023 - 2026 · Assistant Professor (RTD-A)",
       type: "Professional experience",
       logo: "assets/img/unige.png",
       fallback: "UG"
