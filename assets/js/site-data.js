@@ -127,6 +127,27 @@ window.siteData = {
         authors: "Repetto, S.; Maljkovic, I.; Lotto, M.; Cinà, Antonio Emanuele; Vascon, S.; Roli, F.",
       },
       {
+        title: "Trustworthy Data- and ML-Ops for Intelligent Transportation Systems and Logistics",
+        venue: "IEEE Transactions on Intelligent Transportation Systems",
+        year: 2026,
+        link: "https://doi.org/10.1109/TITS.2026.3711756",
+        authors: "Cinà, Antonio Emanuele; Scodeller, Giovanni; Pasquale, Cecilia Caterina; Siri, Silvia; Anguita, Davide; Roli, Fabio; Sacone, Simona; Oneto, Luca"
+      },
+      {
+        title: "Fairness in vision-language text-to-image retrieval: Natural biases and adversarial threats",
+        venue: "Computers and Electrical Engineering",
+        year: 2026,
+        link: "https://doi.org/10.1016/j.compeleceng.2026.111385",
+        authors: "Lazzaro, Dario; Cinà, Antonio Emanuele; Roli, Fabio; Anguita, Davide; Biggio, Battista; Laurita, Giuseppe; Oneto, Luca"
+      },
+      {
+        title: "Overvalidation in Machine Learning: Empirical Evidence and Theoretical Insights",
+        venue: "IEEE Access",
+        year: 2026,
+        link: "https://doi.org/10.1109/ACCESS.2026.3707647",
+        authors: "Mori, Fabrizio; Cinà, Antonio Emanuele; Anguita, Davide; Roli, Fabio; Oneto, Luca"
+      },
+      {
         title: "HORNET: Fast and minimal adversarial perturbations",
         venue: "Information Sciences",
         year: 2025,
